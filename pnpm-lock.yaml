@@ -17,7 +17,7 @@ importers:
       autoprefixer:
         specifier: 10.4.20
         version: 10.4.20(postcss@8.5.1)
-      bcryptjsjs:
+      bcryptjs:
         specifier: ^3.0.2
         version: 3.0.2
       clsx:
@@ -54,7 +54,7 @@ importers:
         specifier: ^3.24.1
         version: 3.24.1
     devDependencies:
-      '@types/bcryptjsjs':
+      '@types/bcryptjs':
         specifier: ^5.0.2
         version: 5.0.2
       '@types/node':
@@ -303,7 +303,7 @@ packages:
     peerDependencies:
       tailwindcss: '>=3.0.0 || >= 3.0.0-alpha.1 || >= 4.0.0-alpha.20 || >= 4.0.0-beta.1'
 
-  '@types/bcryptjsjs@5.0.2':
+  '@types/bcryptjs@5.0.2':
     resolution: {integrity: sha512-6atioO8Y75fNcbmj0G7UjI9lXN2pQ/IGJ2FWT4a/btd0Lk9lQalHLKhkgKVZ3r+spnmWUKfbMi1GEe9wyHQfNQ==}
 
   '@types/cookie@0.6.0':
@@ -356,7 +356,7 @@ packages:
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
 
-  bcryptjsjs@3.0.2:
+  bcryptjs@3.0.2:
     resolution: {integrity: sha512-k38b3XOZKv60C4E2hVsXTolJWfkGRMbILBIe2IBITXciy5bOsTKot5kDrf3ZfufQtQOUN5mXceUEpU1rTl9Uog==}
     hasBin: true
 
@@ -1074,7 +1074,7 @@ snapshots:
       mini-svg-data-uri: 1.4.4
       tailwindcss: 3.4.17
 
-  '@types/bcryptjsjs@5.0.2':
+  '@types/bcryptjs@5.0.2':
     dependencies:
       '@types/node': 22.10.7
 
@@ -1123,7 +1123,7 @@ snapshots:
 
   balanced-match@1.0.2: {}
 
-  bcryptjsjs@3.0.2: {}
+  bcryptjs@3.0.2: {}
 
   binary-extensions@2.3.0: {}
 
